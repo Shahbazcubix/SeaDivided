@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D8FB5B6A-47F5-9BFF-E0AD-209101CDB966}") = "ArtificialFishes", "Assembly-CSharp.csproj", "{020FE177-A078-A3FE-5C7C-A8AF3CE0D356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020FE177-A078-A3FE-5C7C-A8AF3CE0D356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020FE177-A078-A3FE-5C7C-A8AF3CE0D356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020FE177-A078-A3FE-5C7C-A8AF3CE0D356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020FE177-A078-A3FE-5C7C-A8AF3CE0D356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

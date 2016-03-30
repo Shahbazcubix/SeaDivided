@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../gfEatPlant/Assets/Scripts/CellSpacePartition.cs">
+    <Files>
+      <File FileName="../gfEatPlant/Assets/Scripts/CellSpacePartition.cs" Line="630" Column="8" />
+      <File FileName="../gfEatPlant/Assets/Scripts/Eat.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0312bb9a0adb64334afb61371db60c8a
+timeCreated: 1438360250
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fish: {fileID: 177126, guid: 886009c241a8642839cf3b2afc322d68, type: 2}
+  - fishDolphin: {instanceID: 0}
+  - fishMaterial: {fileID: 2100000, guid: 9da27793436d8a043b8581b92fe44963, type: 2}
+  - mateMaterial: {fileID: 2100000, guid: 7e522d3f6877a4f01afa30bd64b5183c, type: 2}
+  - container: {fileID: 145434, guid: a07b260091b354ad78a1972662c94948, type: 2}
+  - closestGO: {instanceID: 0}
+  - cp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
